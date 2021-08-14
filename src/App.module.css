@@ -1,0 +1,35 @@
+.app {
+  color: #222;
+}
+
+button {
+  color: #fff;
+  background-color: #222;
+  padding: 8px 16px;
+  border-radius: 10px;
+}
+
+.header {
+  text-align: center;
+}
+
+.link {
+  color: #222;
+  background-color: #fff;
+  padding: 8px 16px;
+  border-radius: 10px;
+  /* margin-left: 30px; */
+}
+
+.classname {
+  text-decoration: overline;
+  text-decoration-color: yellow;
+}
+
+.active {
+  color: #fff;
+  background-color: #222;
+  padding: 8px 16px;
+  border-radius: 10px;
+  /* margin-left: 30px; */
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ReactJS App</title>
+    <link href="assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="assets/css/font-awesome.css" rel="stylesheet" />
+    <link href="assets/css/owl.carousel.css" rel="stylesheet" />
+    <link href="assets/css/owl.theme.css" rel="stylesheet " />
+    <link href="assets/css/slide-right-panel.css" rel="stylesheet" />
+    <link href="assets/css/tv.css" rel="stylesheet " />
+    <link href="assets/css/responsive.css" rel="stylesheet " />
+    <style>
+      [placeholder]:focus::-webkit-input-placeholder {
+        color: lightgray;
+      }
+    </style>
+  </head>
+  <body style="background-color: purple">
+    <div id="root"></div>
+
+    <script src="assets/js/jquery-1.9.1.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.carousel.js"></script>
+    <script src="assets/js/tv.js"></script>
+    <script src="assets/js/right-slide-panel.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $(".show-alpabets").click(function () {
+          $("#show-numbers").hide();
+          $("#show-alpabets").show();
+        });
+        $(".show-numbers").click(function () {
+          $("#show-alpabets").hide();
+          $("#show-numbers").show();
+        });
+      });
+    </script>
+  </body>
+</html>

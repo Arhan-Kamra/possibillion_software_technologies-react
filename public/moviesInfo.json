@@ -1,0 +1,62 @@
+[
+  { "name": "Mission Mangal (Telugu)", "genre": "Telugu", "path": "Maste" },
+  { "name": "Crack (Telugu)", "genre": "Telugu", "path": "krack" },
+  {
+    "name": "Jathiratnalu (Telugu)",
+    "genre": "Telugu",
+    "path": "jathiratnalu"
+  },
+  {
+    "name": "Gali Sampath (Telugu)",
+    "genre": "Telugu",
+    "path": "Gali-Sampath"
+  },
+  { "name": "Aranya (Telugu)", "genre": "Telugu", "path": "Aranya" },
+  { "name": "Aquaman (English)", "genre": "English", "path": "aquaman" },
+  {
+    "name": "KONG Skull Island (English)",
+    "genre": "English",
+    "path": "kong-skull-island"
+  },
+  { "name": "Parasite (English)", "genre": "English", "path": "parasite" },
+  {
+    "name": "The Revenant (English)",
+    "genre": "English",
+    "path": "The-revenant"
+  },
+  {
+    "name": "Wonder Women 84 (English)",
+    "genre": "English",
+    "path": "wonderwoman1984"
+  },
+  {
+    "name": "Angry Birds (English)",
+    "genre": "Kids-English",
+    "path": "angry-birds"
+  },
+  { "name": "Frozen (English)", "genre": "Kids-English", "path": "frozen" },
+  { "name": "Ice Age (English)", "genre": "Kids-English", "path": "ice-age" },
+  {
+    "name": "The Jungle Book (English)",
+    "genre": "Kids-English",
+    "path": "Jungle-Book"
+  },
+  {
+    "name": "Wonder Park (English)",
+    "genre": "Kids-English",
+    "path": "wonder-par"
+  },
+  { "name": "Baaghi3 (Hindi)", "genre": "Hindi", "path": "baagi-3" },
+  {
+    "name": "Bajirao Mastani (Hindi)",
+    "genre": "Hindi",
+    "path": "Bajirao-Mastani"
+  },
+  { "name": "Bharat (Hindi)", "genre": "Hindi", "path": "bharat" },
+  { "name": "chhichhore (Hindi)", "genre": "Hindi", "path": "chhichhore" },
+  {
+    "name": "Mission Mangal (Hindi)",
+    "genre": "Hindi",
+    "path": "mission-mangal"
+  }
+]
